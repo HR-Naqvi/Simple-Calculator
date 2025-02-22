@@ -1,0 +1,151 @@
+.calculator {
+    background-color: #46595b57;
+    height: 452px;
+    width: 321px;
+    margin: 50px auto;
+    border: 5px solid black;
+}
+
+#result {
+    font-size: 45px;
+    background-color: whitesmoke;
+    overflow: hidden;
+    margin: 1px;
+    border: 2px black;
+    border-style: groove;
+    padding: 10px 20px;
+    height: 94px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#numbers_button{
+    padding: 13px 16px 0px 13px;
+
+}
+
+
+.zero {
+    background-color: rgb(236, 202, 202);
+    width: 144px;
+    height: 61px;
+    font-size: 45px;
+
+}
+
+.dot {
+    background-color: rgb(236, 202, 202);
+    width: 70px;
+    height: 61px;
+    font-size: 45px;
+}
+
+.one {
+    background-color: rgb(236, 202, 202);
+    width: 70px;
+    height: 61px;
+    font-size: 45px;
+}
+
+.two {
+    background-color: rgb(236, 202, 202);
+    width: 70px;
+    height: 61px;
+    font-size: 45px;
+}
+
+.three {
+    background-color: rgb(236, 202, 202);
+    width: 70px;
+    height: 61px;
+    font-size: 45px;
+}
+
+.four {
+    background-color: rgb(236, 202, 202);
+    width: 70px;
+    height: 61px;
+    font-size: 45px;
+}
+
+.five {
+    background-color: rgb(236, 202, 202);
+    width: 70px;
+    height: 61px;
+    font-size: 45px;
+}
+
+.six {
+    background-color: rgb(236, 202, 202);
+    width: 70px;
+    height: 61px;
+    font-size: 45px;
+}
+
+.seven {
+    background-color: rgb(236, 202, 202);
+    width: 70px;
+    height: 61px;
+    font-size: 45px;
+}
+
+.eight {
+    background-color: rgb(236, 202, 202);
+    width: 70px;
+    height: 61px;
+    font-size: 45px;
+}
+
+.nine {
+    background-color: rgb(236, 202, 202);
+    width: 70px;
+    height: 61px;
+    font-size: 45px;
+}
+
+.equal {
+    background-color: rgb(185, 208, 151);
+    width: 70px;
+    height: 61px;
+    font-size: 45px;
+
+}
+
+.plus {
+    background-color: rgb(185, 208, 151);
+    width: 70px;
+    height: 61px;
+    font-size: 45px;
+
+}
+
+.minus {
+    background-color: rgb(185, 208, 151);
+    width: 70px;
+    height: 61px;
+    font-size: 45px;
+}
+
+.multiply {
+    background-color: rgb(185, 208, 151);
+    width: 70px;
+    height: 61px;
+    font-size: 45px;
+}
+
+.divide {
+    background-color: rgb(185, 208, 151);
+    width: 70px;
+    height: 61px;
+    font-size: 45px;
+}
+.clear{
+    background-color: rgb(218, 93, 93);
+    width: 144px;
+    height: 61px;
+    font-size: 45px;
+}
+button:hover{
+    background-color: #46595b57;
+}
